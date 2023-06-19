@@ -21,6 +21,9 @@ desafio 3:
     
 desafio 4:
     -crear el componente producto y transformar el codigo HTML proporcionado en JSX
+
+desafio 5:
+    -crear el componente footer y adaptar el codigo HTML proporcionado
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -2,6 +2,7 @@ import React from 'react';
 import Encabezado from './Encabezado/Encabezado';
 import Banner from './Banner/Banner';
 import Producto from './Producto/Producto';
+import Footer from './Footer/Footer';
 
 function Web(){
   return (
@@ -9,6 +10,7 @@ function Web(){
      <Encabezado />
      <Banner />
      <Producto />
+     <Footer />
     </div>
   )
 
