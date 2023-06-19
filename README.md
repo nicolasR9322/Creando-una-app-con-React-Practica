@@ -7,6 +7,13 @@ descripcion: El objetivo es afianzar los conocimientos introductorios a React a 
 
 desafio 1 :
     -averiguar la razon por la que la pagina base no renderiza la app correctamente
+
+desafio 2:
+    -crear la carpeta components dentro de src
+    -relocalizar el componente Web.js dentro de components
+    -crear los componentes Encabezado, banner,Producto,Footer
+    -usar el codigo HTML proporcionado y adaptarlo al componente Encabezado
+    -importar el logo y adaptarlo como variable
     
 
 # Getting Started with Create React App
