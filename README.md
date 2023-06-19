@@ -14,6 +14,10 @@ desafio 2:
     -crear los componentes Encabezado, banner,Producto,Footer
     -usar el codigo HTML proporcionado y adaptarlo al componente Encabezado
     -importar el logo y adaptarlo como variable
+
+desafio 3:
+    -transformar el codigo HTML proporcionado
+    - importarlo en nuestro componente Web
     
 
 # Getting Started with Create React App
