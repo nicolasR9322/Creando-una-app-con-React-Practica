@@ -19,7 +19,8 @@ desafio 3:
     -transformar el codigo HTML proporcionado
     - importarlo en nuestro componente Web
     
-
+desafio 4:
+    -crear el componente producto y transformar el codigo HTML proporcionado en JSX
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
